@@ -8,3 +8,7 @@ This allows you to mess around with files without needing to commit, as well as 
 
 How can you use the staging area to make sure you have one commit per logical change?
 You can check the difference between the staging area, most recent commit, and working directory.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches would be useful for storing different lines of development, i.e. for testing purposes.
+They would allow you to alternate between different lines without needing to keep changes on the master file.
