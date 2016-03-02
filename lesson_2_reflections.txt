@@ -5,3 +5,6 @@ This allows you to store the metadata, making git's functions useable.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It is an intermediate area.
 This allows you to mess around with files without needing to commit, as well as determine which files logically you want to commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can check the difference between the staging area, most recent commit, and working directory.
